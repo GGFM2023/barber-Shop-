@@ -1,3 +1,6 @@
+// Barbershop.cpp
+// by Tianchan Xu
+// 1/25/2019 
 #include <mutex>
 #include <queue>
 #include <iostream>
